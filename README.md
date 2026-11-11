@@ -70,5 +70,22 @@ Also experienced with: Bizagi BPM · VB.NET · SharePoint 2013 · RESTful API De
 ✅ Public sector fluency — DCS, DSAC, MSCOA, DBSA, BrandSA
 
 🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/nkosinathi-ndaba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nkosinathi.manase@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p><div align="center"> <img src="https://komarev.com/ghpvc/?username=nathi1222&label=Profile%20views&color=36BCF7&style=flat" /> </div><div align="center"> <i>"Secure by design. Scalable by default. Delivered on time."</i> </div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nkosinathi-ndaba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nkosinathi.manase@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nathi1222&label=Profile%20views&color=36BCF7&style=flat" />
+</div>
+
+<div align="center">
+  <i>"Secure by design. Scalable by default. Delivered on time."</i>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
 ![Snake](https://raw.githubusercontent.com/nathi1222/Portfolio/output/github-snake.svg)
