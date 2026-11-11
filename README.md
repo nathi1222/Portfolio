@@ -87,5 +87,4 @@ Also experienced with: Bizagi BPM · VB.NET · SharePoint 2013 · RESTful API De
 ---
 
 ## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/nathi1222/Portfolio/output/github-snake.svg)
+https://raw.githubusercontent.com/nathi1222/Portfolio/output/github-snake.svg
