@@ -2,10 +2,10 @@
 
 # 👋 Hey, I'm Nkosinathi Ndaba
 
-### 💻 Senior Software Engineer | .NET · C# · APIs · SQL
+### 💻 Senior Software Engineer/Lead Software Engineer  | .NET · C# · APIs · SQL
 ### 🔐 Cybersecurity Operations & AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=650&lines=Senior+Software+Engineer+(.NET%2FC%23);8%2B+Years+Building+Enterprise+Solutions;Cybersecurity+Operations+%26+AI;APIs+%7C+SQL+%7C+Azure+%7C+AWS;Secure+by+Design%2C+Scalable+by+Default)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=650&lines=Senior+Software+Engineer;Lead+Software+Engineer+(.NET%2FC%23);8%2B+Years+Building+Enterprise+Solutions;Cybersecurity+Operations+%26+AI;APIs+%7C+SQL+%7C+Azure+%7C+AWS;Secure+by+Design%2C+Scalable+by+Default)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 ```csharp
 public class NkosinathiNdaba
 {
-    public string Role { get; set; } = "Senior Software Engineer";
+    public string Role { get; set; } = "Senior Software Engineer", "Lead Software Engineer ";
     public string Location { get; set; } = "South Africa";
     public int YearsExperience { get; set; } = 8;
 
